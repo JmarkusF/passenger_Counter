@@ -35,4 +35,7 @@ button {
 #save-btn {
     background: darkgreen;
 }
-
+#clear-btn {
+    background: ivory;
+    color: black;
+}
